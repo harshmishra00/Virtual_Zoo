@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Host: 127.0.0.1:8002
+Connection: close
+X-Powered-By: PHP/8.5.3
+Content-Type: text/html; charset=utf-8
+Cache-Control: no-cache, private
+Date: Fri, 15 May 2026 18:49:28 GMT
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IkNoYXpHa2Q4elg3alg5VXAyUDJzeUE9PSIsInZhbHVlIjoiaG9PRU0vVXVTOEZmVGxCeGYvcU1mU01UZlR1anF6aFFjb2Q2b3UrUExMeU9wTDBLSzVMYk5hMDV6c2c0ODZIcUdBZmpCSHpCd0VoNTB2Nk9ZQ1BtdURHc3ltMWFqWkluaERZYTRDRnk3NHh0MGhxcndKdE1LSHdmY3hGZ3pJa3IiLCJtYWMiOiI5NzBjNzgyNzU4MDgwNjg2MGFjMmIxOTQxYmFmZGNjMzQ2YTUzZjhjNjdkMTY0YzRhYWExOGI0NzRkMzAyNTk4IiwidGFnIjoiIn0%3D; expires=Fri, 15 May 2026 20:49:28 GMT; Max-Age=7200; path=/; samesite=lax
+Set-Cookie: zootopia-session=eyJpdiI6InRvdDhra2RXRE1iNi8xb2V2M3UwNHc9PSIsInZhbHVlIjoiT2JZK2paaTFNanprSGl0bHhvb2tEeEtJVVlRWkZzU2F4TDJ2cVJYeXVncDUrVXFaalh3QmhnNm11NnBscnBwYkgyNXN5cjdHSnd0NGZJdkhiNFpUakYxeGF6TmhVcmdYcjE3d1JJK1VwWUxtZHpXLzhxTEhBN3MyZnBqdzhuNXkiLCJtYWMiOiIwM2FmZGU3YjU0NjVlM2RkMTJhY2M1ZTc1ZmQ0OGZlZTRiNTRlNmEyYmIwMzZiY2RiNDE2ZWJmYWU0MWE4N2M0IiwidGFnIjoiIn0%3D; expires=Fri, 15 May 2026 20:49:28 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+
